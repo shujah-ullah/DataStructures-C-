@@ -9,7 +9,7 @@ Recursion
 Trees
 Graphics
 SORTING
-Any one can contribute (correct, distribute, add) it.
+Any one can contribute to it.
 
 
 
