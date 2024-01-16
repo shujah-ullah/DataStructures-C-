@@ -1,0 +1,8 @@
+1. Create root node pointing by root and "p" pointers.
+2. Enqueue address of root node in Queue of pointers.
+3. while(Queue is not Empty) Repeat steps given below.
+4. p = dequeue.
+5. if p->lchild exist then create     new node pointing by "t".
+6. set p->lchild on t 
+7. enqueue p->lchild.
+8. Apply steps 5~7 for p->rchild.  
